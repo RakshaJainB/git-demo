@@ -1,3 +1,3 @@
 My first Git project
 <br>
-Author-Raksha Jain 
+Author-Raksha Jain B
